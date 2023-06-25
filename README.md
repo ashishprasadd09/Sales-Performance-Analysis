@@ -1,7 +1,5 @@
-# Sales-Performance-Analysis
+# Sales-Performance-Analysis  ([🔗](https://public.tableau.com/authoring/Project2SalesPerformanceAnalysis_16877139624470/SalesPerformanceVsTarget#1))
 ### A Tableau Project in Simplilearn
-
-
 
 
 ## Description
@@ -69,3 +67,5 @@ Profit	          | Profit earned
 - To find patterns and outliers, include the sales year in the view. 
 
 - Add a filter so that the user can select one, more than one, or all years. 
+
+![Project Preview](https://github.com/ashishprasadd09/Sales-Performance-Analysis/blob/main/Project.png)
